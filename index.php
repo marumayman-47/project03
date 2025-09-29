@@ -145,7 +145,7 @@ require 'db.php';
       </div>
     </div>
     <div class="mt-3 text-center">
-      <small>©2024 Brussels Brewery. All Rights Reserved. | Privacy | Terms | Cookies</small>
+      <small>©2025 Brussels Brewery. All Rights Reserved. | Privacy | Terms | Cookies</small>
     </div>
   </div>
 </footer>
