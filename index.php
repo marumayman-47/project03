@@ -60,7 +60,7 @@ require 'db.php';
         <a href="#" class="btn btn-outline-dark">Find a Location</a>
       </div>
       <div class="col-md-6 text-center">
-        <img src="images/coffee-cup.jpg" alt="Coffee Cup" class="img-fluid">
+        <img src="imgs\01.jpg" alt="Coffee Cup" class="img-fluid">
       </div>
     </div>
   </div>
@@ -70,7 +70,7 @@ require 'db.php';
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mb-4 mb-md-0">
-        <img src="images/bag-cup.jpg" alt="" class="img-fluid rounded">
+        <img src="imgs\02.jpg" alt="" class="img-fluid rounded">
       </div>
       <div class="col-md-6">
         <h2>Handmade Just For You</h2>
@@ -85,7 +85,7 @@ require 'db.php';
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-md-2 mb-4 mb-md-0">
-        <img src="images/cafe.jpg" alt="" class="img-fluid rounded">
+        <img src="imgs\03.jpg" alt="" class="img-fluid rounded">
       </div>
       <div class="col-md-6 order-md-1">
         <h2>Made In Brussels</h2>
@@ -109,10 +109,10 @@ require 'db.php';
 <section class="gallery">
   <div class="container-fluid">
     <div class="row g-0">
-      <div class="col-6 col-md-3"><img src="images/gallery1.jpg" alt=""></div>
-      <div class="col-6 col-md-3"><img src="images/gallery2.jpg" alt=""></div>
-      <div class="col-6 col-md-3"><img src="images/gallery3.jpg" alt=""></div>
-      <div class="col-6 col-md-3"><img src="images/gallery4.jpg" alt=""></div>
+      <div class="col-6 col-md-3"><img src="imgs\04.jpg" alt=""></div>
+      <div class="col-6 col-md-3"><img src="imgs\05.jpg" alt=""></div>
+      <div class="col-6 col-md-3"><img src="imgs\06.jpg" alt=""></div>
+      <div class="col-6 col-md-3"><img src="imgs\07.jpg" alt=""></div>
     </div>
   </div>
 </section>
